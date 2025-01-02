@@ -4,3 +4,5 @@ this containes files like html, css & JS
 
 this will include steps I followed to learn git
 it's modified again
+
+Started learning from w3 schools
